@@ -1,1 +1,1 @@
-# Linear-Regression-using-GD
+# Linear-Regression-using-Gradient descent
